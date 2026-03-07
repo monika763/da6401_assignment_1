@@ -5,6 +5,16 @@ Roll No: MA24M016
 This repository contains the code for DA6401 Assignment 1 (feedforward neural
 network from scratch, training, evaluation, and experiment tracking).
 
+
+**Github Link**
+```
+https://github.com/monika763/da6401_assignment_1
+```
+
+**Wandb Link**
+```
+https://api.wandb.ai/links/ma24m016-institution/pbgeorat
+```
 ## Project Structure
 
 ```text
